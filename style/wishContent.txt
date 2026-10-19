@@ -1,0 +1,12 @@
+[
+    { "img": "./style/img/Anh (1).jpg", "msg": "Con chúc ba mẹ có thật nhiều sức khỏe, khỏe mạnh phơi phới như trâu" },
+    { "img": "./style/img/Anh (2).jpg", "msg": "Ba mẹ nhớ ăn đúng bữa, đừng bỏ bữa nữa nha" },
+    { "img": "./style/img/Anh (3).jpg", "msg": "Chúc mẹ luôn hạnh phúc, mãi vui cười, ít lo âu suy nghĩ lại" },
+    { "img": "./style/img/Anh (4).jpg", "msg": "Mong rằng đứa em sẽ bớt lì lại, hiểu đời và trưởng thành hơn để ba mẹ đỡ lo" },
+    { "img": "./style/img/Anh (5).jpg", "msg": "Mong rằng ba mẹ sẽ luôn luôn ngủ ngon khi đặt đầu xuống gói" },
+    { "img": "./style/img/Anh (6).jpg", "msg": "Mong rằng mọi điều tốt đẹp nhất trên thế gian này sẽ đến với gia đình mình" },
+    { "img": "./style/img/Anh (7).jpg", "msg": "Con chúc mẹ sẽ có nhiều tiền, đỡ lo âu về tiền nữa" },
+    { "img": "./style/img/Anh (8).jpg", "msg": "Mong rằng những thứ con chúc sẽ thành hiện thực" },
+    { "img": "./style/img/Anh (9).jpg", "msg": "Con cảm ơn mẹ rất nhiều vì đã sinh con ra và nuôi lớn con và em" },
+    { "img": "./style/img/Anh (10).jpg", "msg": "Bái bai mẹ, đừng nhớ con nhiều nha, con về á" }
+]

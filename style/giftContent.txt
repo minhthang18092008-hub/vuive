@@ -1,0 +1,12 @@
+[
+    { "img": "./style/img/Anh (1).jpg", "msg": "Hello mẹ nha, tụi con nè hihi" },
+    { "img": "./style/img/Anh (2).jpg", "msg": "Không biết mẹ đọc tới đây có thấy nhớ thằng con này chưa ta" },
+    { "img": "./style/img/Anh (3).jpg", "msg": "Thật may mắn làm sao khi tụi con được làm con của ba và mẹ" },
+    { "img": "./style/img/Anh (4).jpg", "msg": "Từ nhỏ đến lớn là một tay mẹ chăm lo cho tụi con" },
+    { "img": "./style/img/Anh (5).jpg", "msg": "Mấy hồi quậy phá, chọc mẹ, rồi bao nhiêu trò trẻ con lúc đó" },
+    { "img": "./style/img/Anh (6).jpg", "msg": "Giờ thì lớn rồi, mấy trò đó cũng ít đi, cũng ít khi con chọc mẹ nữa" },
+    { "img": "./style/img/Anh (7).jpg", "msg": "Nhưng lớn rồi mà đôi khi tụi con vẫn làm mẹ buồn mẹ lo" },
+    { "img": "./style/img/Anh (8).jpg", "msg": "Con cũng lo lắm, lo lúc mẹ buồn, lo lúc mẹ đau, lo lúc mẹ bỏ bữa sáng " },
+    { "img": "./style/img/Anh (9).jpg", "msg": "Con mãi chẳng thể lo được cho mẹ như cách mẹ lo cho con" },
+    { "img": "./style/img/Anh (10).jpg", "msg": "Và rồi thời gian vẫn cứ mãi thoi đưa đưa con đi đến nơi thật xa" }
+]
